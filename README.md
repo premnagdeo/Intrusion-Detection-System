@@ -1,6 +1,6 @@
 # Intrusion-Detection-System
 
-This Intrusion Detection System uses Logistic Regression to differentiate between Valid Queries and Malicious Queries for Web Applications.
+This Intrusion Detection System uses Logistic Regression to differentiate between Valid url request queries and Malicious url request queries for Web Applications.
 
 The dataset for Valid Queries can be found at: http://www.secrepo.com/
 The dataset for Malicious Queries can be found at: https://github.com/foospidy/payloads
