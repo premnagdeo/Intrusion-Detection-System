@@ -16,7 +16,7 @@ The pruned datasets can be found in the repo:
 
 ## Accuracy
 
-Using just Logistic Regression, I was able to achieve an accuracy of 99.94% with in only 28 out of 8881 malicious queries passed through the Intrusion Detection System.
+Using just Logistic Regression, I was able to achieve an accuracy of 99.94% wherein only 28 out of 8881 malicious queries passed through the Intrusion Detection System.
 
 
 ![Accuracy](images/accuracy.png)
